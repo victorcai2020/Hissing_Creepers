@@ -1,5 +1,6 @@
 # Hissing_Creepers
-A text card-game stimulation
+A text card-game stimulation.
+Here is a sample:
 ![image](https://user-images.githubusercontent.com/62484134/129446242-082153bb-f070-4dd4-94f9-b63a598f516a.png)
 
 
