@@ -19,7 +19,7 @@ print('It is also good to visit the advanced instructions if you are a beginner.
 draw = ['Animal', 'Wood', 'Stone', 'Iron', 'DIAMOND!!', 'Go caving', 'Go to the Nether', 'Go to the End', 'Villager', 'Bad Omen',
          '!!HISSING CREEPER!!', '!!!!CHARGED HISSING CREEPER!!!!']
 
-h1 = ['Wood sword', 'Wood sword', 'Wood sword', 'Wood sword']
+h1 = []
 Villagercount1 = h1.count('Villager')
 h2 = []
 Villagercount2 = h2.count('Villager')
